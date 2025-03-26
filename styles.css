@@ -55,6 +55,12 @@ main section {
     min-height: 10vh;
 }
 
+
+id="about" {
+    background-color: #c9c9c9;
+
+}
+
 #home {
     display: flex;
     align-items: center;
